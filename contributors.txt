@@ -1,2 +1,3 @@
+name		e-mail
 Jared Muse
-Jae Min Whang    whangj1@unlv.nevada.edu
+Jae Min Whang	whangj1@unlv.nevada.edu
